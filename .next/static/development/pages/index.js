@@ -13,7 +13,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/head */ "./node_modules/next/dist/next-server/lib/head.js");
 /* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_head__WEBPACK_IMPORTED_MODULE_1__);
-var _jsxFileName = "/home/imraan/Documents/Code/Personal Projects/first-next/components/Head_Component.js";
+var _jsxFileName = "/home/imraan/Documents/Code/Personal Projects/star-wars-api/components/Head_Component.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -91,7 +91,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _Navbar__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Navbar */ "./components/Navbar.js");
 /* harmony import */ var _Head_Component__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./Head_Component */ "./components/Head_Component.js");
-var _jsxFileName = "/home/imraan/Documents/Code/Personal Projects/first-next/components/Layout.js";
+var _jsxFileName = "/home/imraan/Documents/Code/Personal Projects/star-wars-api/components/Layout.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -148,7 +148,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "/home/imraan/Documents/Code/Personal Projects/first-next/components/Navbar.js";
+var _jsxFileName = "/home/imraan/Documents/Code/Personal Projects/star-wars-api/components/Navbar.js";
 
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
@@ -283,7 +283,7 @@ var Navbar = function Navbar() {
   }, "Contact Me"))))), __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
     id: "2569768911",
     __self: this
-  }, "nav.jsx-2569768911{height:10vh;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9ob21lL2ltcmFhbi9Eb2N1bWVudHMvQ29kZS9QZXJzb25hbCBQcm9qZWN0cy9maXJzdC1uZXh0L2NvbXBvbmVudHMvTmF2YmFyLmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQXNCb0IsQUFHeUIsWUFDaEIiLCJmaWxlIjoiL2hvbWUvaW1yYWFuL0RvY3VtZW50cy9Db2RlL1BlcnNvbmFsIFByb2plY3RzL2ZpcnN0LW5leHQvY29tcG9uZW50cy9OYXZiYXIuanMiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgTGluayBmcm9tICduZXh0L2xpbmsnO1xuXG5cbmNvbnN0IE5hdmJhciA9ICgpID0+IChcbiAgICA8UmVhY3QuRnJhZ21lbnQ+XG4gICAgICAgIDxuYXYgY2xhc3NOYW1lPVwibmF2YmFyIG5hdmJhci1leHBhbmQtbGcgbmF2YmFyLWxpZ2h0IGJnLWxpZ2h0XCI+XG4gICAgICAgICAgICA8TGluayBocmVmPVwiL1wiPjxhIGNsYXNzTmFtZT1cIm5hdmJhci1icmFuZFwiPkltcmFhbiBNZXllcjwvYT48L0xpbms+XG5cbiAgICAgICAgICAgIDxidXR0b24gY2xhc3NOYW1lPVwibmF2YmFyLXRvZ2dsZXJcIiB0eXBlPVwiYnV0dG9uXCIgZGF0YS10b2dnbGU9XCJjb2xsYXBzZVwiIGRhdGEtdGFyZ2V0PVwiI25hdmJhck5hdkFsdE1hcmt1cFwiIGFyaWEtY29udHJvbHM9XCJuYXZiYXJOYXZBbHRNYXJrdXBcIiBhcmlhLWV4cGFuZGVkPVwiZmFsc2VcIiBhcmlhLWxhYmVsPVwiVG9nZ2xlIG5hdmlnYXRpb25cIj5cbiAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9XCJuYXZiYXItdG9nZ2xlci1pY29uXCI+PC9zcGFuPlxuICAgICAgICAgICAgPC9idXR0b24+XG5cbiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPVwiY29sbGFwc2UgbmF2YmFyLWNvbGxhcHNlXCIgaWQ9XCJuYXZiYXJOYXZBbHRNYXJrdXBcIj5cbiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cIm5hdmJhci1uYXZcIj5cbiAgICAgICAgICAgICAgICAgICAgPExpbmsgaHJlZj1cIi9cIj48YSBjbGFzc05hbWU9XCJuYXYtaXRlbSBuYXYtbGluayBhY3RpdmVcIj5Ib21lIDxzcGFuIGNsYXNzTmFtZT1cInNyLW9ubHlcIj4oY3VycmVudCk8L3NwYW4+PC9hPjwvTGluaz5cbiAgICAgICAgICAgICAgICAgICAgPExpbmsgaHJlZj1cIi9hYm91dFwiPjxhIGNsYXNzTmFtZT1cIm5hdi1pdGVtIG5hdi1saW5rXCI+QWJvdXQ8L2E+PC9MaW5rPlxuICAgICAgICAgICAgICAgICAgICA8TGluayBocmVmPVwiL3Byb2plY3RzXCI+PGEgY2xhc3NOYW1lPVwibmF2LWl0ZW0gbmF2LWxpbmtcIj5Qcm9qZWN0czwvYT48L0xpbms+XG4gICAgICAgICAgICAgICAgICAgIDxMaW5rIGhyZWY9XCIvY29udGFjdFwiPjxhIGNsYXNzTmFtZT1cIm5hdi1pdGVtIG5hdi1saW5rXCI+Q29udGFjdCBNZTwvYT48L0xpbms+XG4gICAgICAgICAgICAgICAgPC9kaXY+XG4gICAgICAgICAgICA8L2Rpdj5cbiAgICAgICAgPC9uYXY+XG5cbiAgICAgICAgPHN0eWxlIGpzeD57YFxuICAgICAgICBuYXYge1xuICAgICAgICAgICAgaGVpZ2h0OiAxMHZoO1xuICAgICAgICB9XG4gICAgXG4gICAgICAgIGB9PC9zdHlsZT5cblxuXG4gICAgPC9SZWFjdC5GcmFnbWVudD5cbilcblxuZXhwb3J0IGRlZmF1bHQgTmF2YmFyOyJdfQ== */\n/*@ sourceURL=/home/imraan/Documents/Code/Personal Projects/first-next/components/Navbar.js */"));
+  }, "nav.jsx-2569768911{height:10vh;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9ob21lL2ltcmFhbi9Eb2N1bWVudHMvQ29kZS9QZXJzb25hbCBQcm9qZWN0cy9zdGFyLXdhcnMtYXBpL2NvbXBvbmVudHMvTmF2YmFyLmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQXNCb0IsQUFHeUIsWUFDaEIiLCJmaWxlIjoiL2hvbWUvaW1yYWFuL0RvY3VtZW50cy9Db2RlL1BlcnNvbmFsIFByb2plY3RzL3N0YXItd2Fycy1hcGkvY29tcG9uZW50cy9OYXZiYXIuanMiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgTGluayBmcm9tICduZXh0L2xpbmsnO1xuXG5cbmNvbnN0IE5hdmJhciA9ICgpID0+IChcbiAgICA8UmVhY3QuRnJhZ21lbnQ+XG4gICAgICAgIDxuYXYgY2xhc3NOYW1lPVwibmF2YmFyIG5hdmJhci1leHBhbmQtbGcgbmF2YmFyLWxpZ2h0IGJnLWxpZ2h0XCI+XG4gICAgICAgICAgICA8TGluayBocmVmPVwiL1wiPjxhIGNsYXNzTmFtZT1cIm5hdmJhci1icmFuZFwiPkltcmFhbiBNZXllcjwvYT48L0xpbms+XG5cbiAgICAgICAgICAgIDxidXR0b24gY2xhc3NOYW1lPVwibmF2YmFyLXRvZ2dsZXJcIiB0eXBlPVwiYnV0dG9uXCIgZGF0YS10b2dnbGU9XCJjb2xsYXBzZVwiIGRhdGEtdGFyZ2V0PVwiI25hdmJhck5hdkFsdE1hcmt1cFwiIGFyaWEtY29udHJvbHM9XCJuYXZiYXJOYXZBbHRNYXJrdXBcIiBhcmlhLWV4cGFuZGVkPVwiZmFsc2VcIiBhcmlhLWxhYmVsPVwiVG9nZ2xlIG5hdmlnYXRpb25cIj5cbiAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9XCJuYXZiYXItdG9nZ2xlci1pY29uXCI+PC9zcGFuPlxuICAgICAgICAgICAgPC9idXR0b24+XG5cbiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPVwiY29sbGFwc2UgbmF2YmFyLWNvbGxhcHNlXCIgaWQ9XCJuYXZiYXJOYXZBbHRNYXJrdXBcIj5cbiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cIm5hdmJhci1uYXZcIj5cbiAgICAgICAgICAgICAgICAgICAgPExpbmsgaHJlZj1cIi9cIj48YSBjbGFzc05hbWU9XCJuYXYtaXRlbSBuYXYtbGluayBhY3RpdmVcIj5Ib21lIDxzcGFuIGNsYXNzTmFtZT1cInNyLW9ubHlcIj4oY3VycmVudCk8L3NwYW4+PC9hPjwvTGluaz5cbiAgICAgICAgICAgICAgICAgICAgPExpbmsgaHJlZj1cIi9hYm91dFwiPjxhIGNsYXNzTmFtZT1cIm5hdi1pdGVtIG5hdi1saW5rXCI+QWJvdXQ8L2E+PC9MaW5rPlxuICAgICAgICAgICAgICAgICAgICA8TGluayBocmVmPVwiL3Byb2plY3RzXCI+PGEgY2xhc3NOYW1lPVwibmF2LWl0ZW0gbmF2LWxpbmtcIj5Qcm9qZWN0czwvYT48L0xpbms+XG4gICAgICAgICAgICAgICAgICAgIDxMaW5rIGhyZWY9XCIvY29udGFjdFwiPjxhIGNsYXNzTmFtZT1cIm5hdi1pdGVtIG5hdi1saW5rXCI+Q29udGFjdCBNZTwvYT48L0xpbms+XG4gICAgICAgICAgICAgICAgPC9kaXY+XG4gICAgICAgICAgICA8L2Rpdj5cbiAgICAgICAgPC9uYXY+XG5cbiAgICAgICAgPHN0eWxlIGpzeD57YFxuICAgICAgICBuYXYge1xuICAgICAgICAgICAgaGVpZ2h0OiAxMHZoO1xuICAgICAgICB9XG4gICAgXG4gICAgICAgIGB9PC9zdHlsZT5cblxuXG4gICAgPC9SZWFjdC5GcmFnbWVudD5cbilcblxuZXhwb3J0IGRlZmF1bHQgTmF2YmFyOyJdfQ== */\n/*@ sourceURL=/home/imraan/Documents/Code/Personal Projects/star-wars-api/components/Navbar.js */"));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Navbar);
@@ -5459,10 +5459,10 @@ exports.__esModule=true;exports.default=void 0;var _default=window.fetch;exports
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2Fhome%2Fimraan%2FDocuments%2FCode%2FPersonal%20Projects%2Ffirst-next%2Fpages%2Findex.js!./":
-/*!******************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2Fhome%2Fimraan%2FDocuments%2FCode%2FPersonal%20Projects%2Ffirst-next%2Fpages%2Findex.js ***!
-  \******************************************************************************************************************************************************************************************************/
+/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2Fhome%2Fimraan%2FDocuments%2FCode%2FPersonal%20Projects%2Fstar-wars-api%2Fpages%2Findex.js!./":
+/*!*********************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2Fhome%2Fimraan%2FDocuments%2FCode%2FPersonal%20Projects%2Fstar-wars-api%2Fpages%2Findex.js ***!
+  \*********************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -12640,7 +12640,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/home/imraan/Documents/Code/Personal Projects/first-next/pages/index.js";
+var _jsxFileName = "/home/imraan/Documents/Code/Personal Projects/star-wars-api/pages/index.js";
 
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement;
@@ -12709,7 +12709,7 @@ var Index = function Index(props) {
   }))), __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_4___default.a, {
     id: "3174117184",
     __self: this
-  }, "div.jsx-3174117184{height:80vh;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9ob21lL2ltcmFhbi9Eb2N1bWVudHMvQ29kZS9QZXJzb25hbCBQcm9qZWN0cy9maXJzdC1uZXh0L3BhZ2VzL2luZGV4LmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQW9Cb0IsQUFHNkIsWUFDaEIiLCJmaWxlIjoiL2hvbWUvaW1yYWFuL0RvY3VtZW50cy9Db2RlL1BlcnNvbmFsIFByb2plY3RzL2ZpcnN0LW5leHQvcGFnZXMvaW5kZXguanMiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgTGF5b3V0IGZyb20gJy4uL2NvbXBvbmVudHMvTGF5b3V0JztcbmltcG9ydCBmZXRjaCBmcm9tICdpc29tb3JwaGljLXVuZmV0Y2gnO1xuaW1wb3J0IExpbmsgZnJvbSAnbmV4dC9saW5rJztcblxuY29uc3QgSW5kZXggPSAocHJvcHMpID0+IChcbiAgICA8TGF5b3V0PlxuICAgICAgICA8ZGl2PlxuICAgICAgICAgICAgPGgxPlN0YXIgV2FycyBDaGFyYWN0ZXJzPC9oMT5cblxuICAgICAgICAgICAgPHVsPlxuICAgICAgICAgICAgICAgIHtPYmplY3QudmFsdWVzKHByb3BzLnBlb3BsZSkubWFwKHBlcnNvbiA9PiAoXG4gICAgICAgICAgICAgICAgICAgIDxsaSBrZXk9e3BlcnNvbi5uYW1lfT5cbiAgICAgICAgICAgICAgICAgICAgICAgIDxMaW5rIGFzPXtgL3AvJHtwZXJzb24ubmFtZX1gfSBocmVmPXt7cGF0aG5hbWU6ICcvcG9zdCcsIHF1ZXJ5OiB7cGVyc29uOiBKU09OLnN0cmluZ2lmeShwZXJzb24pfX19PlxuICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhPntwZXJzb24ubmFtZX08L2E+XG4gICAgICAgICAgICAgICAgICAgICAgICA8L0xpbms+XG4gICAgICAgICAgICAgICAgICAgIDwvbGk+XG4gICAgICAgICAgICAgICAgKSl9XG4gICAgICAgICAgICA8L3VsPlxuICAgICAgICA8L2Rpdj5cblxuICAgICAgICA8c3R5bGUganN4PntgXG4gICAgICAgICAgICBkaXYge1xuICAgICAgICAgICAgICAgIGhlaWdodDogODB2aDtcbiAgICAgICAgICAgIH1cbiAgICAgICAgYH08L3N0eWxlPlxuICAgIDwvTGF5b3V0PlxuKVxuXG5JbmRleC5nZXRJbml0aWFsUHJvcHMgPSBhc3luYyAoKSA9PiB7XG4gICAgY29uc3QgcmVzID0gYXdhaXQgZmV0Y2goJ2h0dHBzOi8vc3dhcGkuY28vYXBpL3Blb3BsZS8nKTtcbiAgICBjb25zdCBkYXRhID0gYXdhaXQgcmVzLmpzb24oKTtcblxuICAgIHJldHVybiB7IHBlb3BsZTogZGF0YS5yZXN1bHRzIH1cbn1cblxuZXhwb3J0IGRlZmF1bHQgSW5kZXg7Il19 */\n/*@ sourceURL=/home/imraan/Documents/Code/Personal Projects/first-next/pages/index.js */"));
+  }, "div.jsx-3174117184{height:80vh;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9ob21lL2ltcmFhbi9Eb2N1bWVudHMvQ29kZS9QZXJzb25hbCBQcm9qZWN0cy9zdGFyLXdhcnMtYXBpL3BhZ2VzL2luZGV4LmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQW9Cb0IsQUFHNkIsWUFDaEIiLCJmaWxlIjoiL2hvbWUvaW1yYWFuL0RvY3VtZW50cy9Db2RlL1BlcnNvbmFsIFByb2plY3RzL3N0YXItd2Fycy1hcGkvcGFnZXMvaW5kZXguanMiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgTGF5b3V0IGZyb20gJy4uL2NvbXBvbmVudHMvTGF5b3V0JztcbmltcG9ydCBmZXRjaCBmcm9tICdpc29tb3JwaGljLXVuZmV0Y2gnO1xuaW1wb3J0IExpbmsgZnJvbSAnbmV4dC9saW5rJztcblxuY29uc3QgSW5kZXggPSAocHJvcHMpID0+IChcbiAgICA8TGF5b3V0PlxuICAgICAgICA8ZGl2PlxuICAgICAgICAgICAgPGgxPlN0YXIgV2FycyBDaGFyYWN0ZXJzPC9oMT5cblxuICAgICAgICAgICAgPHVsPlxuICAgICAgICAgICAgICAgIHtPYmplY3QudmFsdWVzKHByb3BzLnBlb3BsZSkubWFwKHBlcnNvbiA9PiAoXG4gICAgICAgICAgICAgICAgICAgIDxsaSBrZXk9e3BlcnNvbi5uYW1lfT5cbiAgICAgICAgICAgICAgICAgICAgICAgIDxMaW5rIGFzPXtgL3AvJHtwZXJzb24ubmFtZX1gfSBocmVmPXt7cGF0aG5hbWU6ICcvcG9zdCcsIHF1ZXJ5OiB7cGVyc29uOiBKU09OLnN0cmluZ2lmeShwZXJzb24pfX19PlxuICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhPntwZXJzb24ubmFtZX08L2E+XG4gICAgICAgICAgICAgICAgICAgICAgICA8L0xpbms+XG4gICAgICAgICAgICAgICAgICAgIDwvbGk+XG4gICAgICAgICAgICAgICAgKSl9XG4gICAgICAgICAgICA8L3VsPlxuICAgICAgICA8L2Rpdj5cblxuICAgICAgICA8c3R5bGUganN4PntgXG4gICAgICAgICAgICBkaXYge1xuICAgICAgICAgICAgICAgIGhlaWdodDogODB2aDtcbiAgICAgICAgICAgIH1cbiAgICAgICAgYH08L3N0eWxlPlxuICAgIDwvTGF5b3V0PlxuKVxuXG5JbmRleC5nZXRJbml0aWFsUHJvcHMgPSBhc3luYyAoKSA9PiB7XG4gICAgY29uc3QgcmVzID0gYXdhaXQgZmV0Y2goJ2h0dHBzOi8vc3dhcGkuY28vYXBpL3Blb3BsZS8nKTtcbiAgICBjb25zdCBkYXRhID0gYXdhaXQgcmVzLmpzb24oKTtcblxuICAgIHJldHVybiB7IHBlb3BsZTogZGF0YS5yZXN1bHRzIH1cbn1cblxuZXhwb3J0IGRlZmF1bHQgSW5kZXg7Il19 */\n/*@ sourceURL=/home/imraan/Documents/Code/Personal Projects/star-wars-api/pages/index.js */"));
 };
 
 Index.getInitialProps =
@@ -12748,13 +12748,13 @@ _babel_runtime_corejs2_regenerator__WEBPACK_IMPORTED_MODULE_0___default.a.mark(f
 /***/ }),
 
 /***/ 0:
-/*!**********************************************************************************************************************************************************!*\
-  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2Fhome%2Fimraan%2FDocuments%2FCode%2FPersonal%20Projects%2Ffirst-next%2Fpages%2Findex.js ***!
-  \**********************************************************************************************************************************************************/
+/*!*************************************************************************************************************************************************************!*\
+  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2Fhome%2Fimraan%2FDocuments%2FCode%2FPersonal%20Projects%2Fstar-wars-api%2Fpages%2Findex.js ***!
+  \*************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=%2Fhome%2Fimraan%2FDocuments%2FCode%2FPersonal%20Projects%2Ffirst-next%2Fpages%2Findex.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2Fhome%2Fimraan%2FDocuments%2FCode%2FPersonal%20Projects%2Ffirst-next%2Fpages%2Findex.js!./");
+module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=%2Fhome%2Fimraan%2FDocuments%2FCode%2FPersonal%20Projects%2Fstar-wars-api%2Fpages%2Findex.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2Fhome%2Fimraan%2FDocuments%2FCode%2FPersonal%20Projects%2Fstar-wars-api%2Fpages%2Findex.js!./");
 
 
 /***/ }),
