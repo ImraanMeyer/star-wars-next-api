@@ -1,1 +1,1 @@
-# Playing around with NextJS
+# Using NextJS to connect to a [Star Wars API](https://swapi.co/api/people/) ⚡
